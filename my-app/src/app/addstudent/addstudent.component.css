@@ -1,0 +1,11 @@
+form{
+    border: 2px solid #DEE2E6;
+    position: absolute;
+    left: 10px;
+    width: 1900px;
+    margin: 5px;
+}
+label{
+    font-size: large;
+    font-weight: bold;
+}

@@ -1,0 +1,12 @@
+@import "~font-awesome/css/font-awesome.css";
+table{
+    position: absolute;
+    left: 500px;
+    width: 1000px;
+    border: 2px solid #DEE2E6;
+}
+h1{
+    position: absolute;
+    left: 850px;
+    bottom: 0px;
+}

@@ -1,0 +1,28 @@
+{
+    "Stutdents":[
+        {
+            "id":"1",
+            "name":"Kareem",
+            "detials":"Kareem detials",
+            "email":"Kareem@xyz.com"
+        },
+        {
+            "id":"2",
+            "name":"Alex",
+            "detials":"Alex detials",
+            "email":"Alex@xyz.com"
+        },
+        {
+            "id":"3",
+            "name":"Ana",
+            "detials":"Ana detials",
+            "email":"Ana@xyz.com"
+        },
+        {
+            "id":"4",
+            "name":"John",
+            "detials":"John detials",
+            "email":"John@xyz.com"
+        }
+    ]
+}
